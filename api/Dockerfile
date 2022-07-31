@@ -1,5 +1,6 @@
 #parent image
-FROM node:17-alpine
+FROM node:18-alpine3.15
+
 
 WORKDIR /app
 
